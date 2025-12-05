@@ -1,0 +1,6 @@
+nr_id,imię,nazwisko,stanowisko,wiek,pensja,nowe_stanowisko,nowa_pensja
+1,Anna,Kowalska,Manager,35,8000,Starszy manager,10000.0
+2,Jan,Nowak,Programista,28,4500,,
+3,Katarzyna,Wiśniewska,Konsultant,40,6000,,
+4,Tomasz,Kaczmarek,Programista,30,5500,,
+5,Michał,Zieliński,Manager,45,7000,Dyrektor,12000.0
